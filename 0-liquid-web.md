@@ -7,7 +7,7 @@ Through the magic of Linux and virtualisation, it's now possible to get a small 
 
 As well as a hosting provider, we also need to choose which "flavour" of Linux to install on our server. If you're new to Linux then the range of "distributions" available can be confusing - but the latest LTS ("Long Term Support") version of Ubuntu Server is a popular choice. 
  
-These instruction will walk you through using Liquid Web (http://www.liquidweb.com/managed-vps-hosting/) as your VPS hosting provider. 
+These instruction will walk you through using Liquid Web (http://www.liquidweb.com) as your VPS hosting provider. 
 
 ## Signing up with Liquid Web.
 http://www.liquidweb.com/StormServers/index.html
