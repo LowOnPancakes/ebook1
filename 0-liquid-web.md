@@ -12,11 +12,9 @@ These instruction will walk you through using Liquid Web (http://www.liquidweb.c
 ## Signing up with Liquid Web.
 http://www.liquidweb.com/StormServers/index.html
 
-Click the large green creat an account button at the bottom of the page to get started. 
+Under the Box that reads Storm® VPS Servers Fully Managed VPS Hosting click the button that reads from $50/mo.
 
-Choose the Storm VPS option
-
-Choose the 1G VPS option. 
+Set the slider to the 1G option and click the green order now button
 
 Most of Liquid Webs servers run CentOS but this course was written for Ubuntu so choose the most current Ubuntu option. Many of the things you learn in this course will apply across all Linux distributions.
 
